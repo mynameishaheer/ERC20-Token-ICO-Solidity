@@ -7,7 +7,6 @@ The second part of the code an initial coin offering which is a form of crowdfun
 <br />
 This code can be run on any Solidity compiler (preferably Remix IDE).
 
-<br />
  - The coin is generated as per standard
  - The ICO is not working as required
  - An investor can send an amount of ether, which is transferred to the admin of the contract
